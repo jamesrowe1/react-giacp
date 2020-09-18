@@ -4,15 +4,15 @@ class Home extends Component {
     render() {
       return (
         <>
-        <h4>
+        <h3>
             Our Story
-        </h4>
+        </h3>
         <div className="card-bio">
             Gastroentorology Associates of Central Pennsylvania was founded in 2003 by Dr. William Rowe and Dr. Robert Werkman. They have now expanded to include PA Carrie Leese, and are looking forward to providing whatever Gastroentorological services you require.
         </div>
-        <h4>
+        <h3>
             Reviews
-        </h4>
+        </h3>
         <div className="card-bio">
             "My Urologist referred me to Dr R for difficulties that have gotten worse following multiple pelvic surgeries. His office had me mail Medical Records in advance, which he had reviewed before we met. His questions were direct, on point, & his recommendations helpful. He answered my questions, making sure I understood the changes I am supposed to make."
         </div>
