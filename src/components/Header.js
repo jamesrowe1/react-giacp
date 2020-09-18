@@ -44,7 +44,7 @@ class Header extends React.Component {
     </Jumbotron>
     
     </header>  
-    <div class="hero"></div>
+    <div className="hero"></div>
     </>
     );
   }
