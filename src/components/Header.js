@@ -29,7 +29,7 @@ class Header extends React.Component {
         <Dropdown.Item href="/insurance">Insurance</Dropdown.Item>
         <Dropdown.Item href="/directions">Directions</Dropdown.Item>
         <Dropdown.Item href="/screeningcolonoscopy">Screening Colonoscopy</Dropdown.Item>
-        <Dropdown.Item href="/accredidation">Accredidation</Dropdown.Item>
+        <Dropdown.Item href="/jcaho">Accredidation</Dropdown.Item>
     </DropdownButton>
     <DropdownButton as={ButtonGroup} id="dropdown-basic-button" variant="danger" title="Procedures">
         <Dropdown.Item href="/screeningcolonoscopy">Screening Colonoscopy</Dropdown.Item>
