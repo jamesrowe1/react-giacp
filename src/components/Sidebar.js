@@ -58,7 +58,7 @@ class Sidebar extends React.Component {
                         <a href="/esophagealmanometry">Esophageal Manometry</a>
                     </li>
                     <li>
-                        <a href="/24hrph">24 Hour pH Probe</a>
+                        <a href="/ph24hr">24 Hour pH Probe</a>
                     </li>
                 </ul>
             </section>
