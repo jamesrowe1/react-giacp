@@ -1,35 +1,20 @@
 import React, { Component } from "react";
-import wrowe from "../images/wrowe2.jpg"
-import rfwerkman2 from "../images/rfwerkman2.jpg"
-import carrie2 from "../images/Carrie2.jpg"
+
 class Home extends Component {
     render() {
       return (
         <>
         <div className="card-bio">
-            <img src={wrowe} className="float-left" alt="william-rowe" />
-            <h2>William A. Rowe, M.D.</h2>
-            <p>
-                Dr. Rowe has extensive experience including decades at the Hershey
-                Medical Center and over a decade in private practice.
-            </p>
+            Gastroentorology Associates of Central Pennsylvania was founded in 2003 by Dr. William Rowe and Dr. Robert Werkman. They have now expanded to include PA Carrie Leese, and are looking forward to providing whatever Gastroentorologist services you require.
         </div>
-
+        <h4>
+            Reviews
+        </h4>
         <div className="card-bio">
-            <img src={rfwerkman2} className="float-left" alt="robert-werkman" />
-            <h2>Robert F. Werkman, M.D.</h2>
-            <p>
-                Dr. Werkman has similiar experience as Dr. Rowe, and is a well respected gastroentorologist.
-            </p>
+            "My Urologist referred me to Dr R for difficulties that have gotten worse following multiple pelvic surgeries. His office had me mail Medical Records in advance, which he had reviewed before we met. His questions were direct, on point, & his recommendations helpful. He answered my questions, making sure I understood the changes I am supposed to make."
         </div>
-
         <div className="card-bio">
-            <img src={carrie2} className="float-left" alt="carrie-leese" />
-            <h2>Carrie Leese, M.M.S., PA-C</h2>
-            <p>
-                Carrie has been working for GIACP for several years and has done a
-                wonderful job.
-            </p>
+            "I have been going to Dr Rowe for about 2 years and have had several procedures. Dr. Rowe and his staff are very professional and caring. He was formerly the head of gastroenterology at Hershey Medical Center.Appointments are easy to get. They have the facilities to do upper and lower GIs right on the premise. It is much easier than having to go to the hospital.""
         </div>
         </>
       );
