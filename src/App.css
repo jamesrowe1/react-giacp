@@ -1,38 +1,161 @@
-.App {
+/* all css styles have  */
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #d9dcd6;
+}
+
+img {
+  float: left;
+  width:  100px;
+  height: 100px;
+  object-fit: cover;
+  margin: 15px;
+}
+
+/* removed . as this is now a semantic tag in index */
+header {
+  padding: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: #2a607c;
+  color: #ffffff;
+}
+
+.jumbotron {
+  background-color: #2a607c;
+  padding: 0;
+  margin: 0 0;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  font-size: 10vw
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+h2 {
+  font-size: 7vw
+}
+
+h4 {
+  font-size: 5vw
+}
+
+button {
+  margin: 10px;
+}
+
+/* I thought the image should go in HTML as its content, but apparently not true for background images */
+.hero {
+  height: 300px;
+  width: 100%;
+  margin-bottom: 25px;
+  background-image: url("./images/giacp-googlestreetview.JPG");
+  background-size: cover;
+  background-position: center;
+}
+
+#sidebar {
+  background-color: #0072bb;
+}
+
+a {
+  color: white
+}
+
+.linkOnPage {
+  color: darkblue
+}
+
+.hours {
+  margin-bottom: 32px;
+  margin-left: 25px;
+  color: #ffffff;
+}
+
+#mobileInfo {
+  display: none;
+}
+
+.hours h3 {
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+
+.location {
+  margin-bottom: 32px;
+  margin-left: 25px;
+  color: #ffffff;
+}
+
+.location h3 {
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.video-container {
+  overflow: hidden;
+  position: relative;
+  width:100%;
+}
+
+.video-container::after {
+  padding-top: 56.25%;
+  display: block;
+  content: '';
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.procedures {
+  margin-bottom: 32px;
+  margin-left: 25px;
+  color: #ffffff;
+}
+
+.procedures h3 {
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+
+
+footer {
+  padding: 30px;
+  clear: both;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+}
+
+footer h2 {
+  font-size: 20px;
+}
+
+.card-bio {
+  background-color: #0072bb;
+  color: #ffffff;
+  margin: 15px;
+  padding: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  #sidebar {
+    display: none
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
+  #mobileInfo {
+    display: inline-block;
   }
 }
