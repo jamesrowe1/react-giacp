@@ -17,7 +17,7 @@ class Home extends Component {
 
         <div className="card-bio">
             <img src={rfwerkman2} className="float-left" alt="robert-werkman" />
-            <h2>Robert F. Werkman, M.D. (retired)</h2>
+            <h2>Robert F. Werkman, M.D.</h2>
             <p>
                 Dr. Werkman has similiar experience as Dr. Rowe, and is a well respected gastroentorologist.
             </p>
