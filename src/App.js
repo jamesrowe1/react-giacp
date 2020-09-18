@@ -18,7 +18,6 @@ import Container from "react-bootstrap/Container"
 import Home from "./pages/Home"
 import Associates from "./pages/Associates"
 import Colonoscopy from "./pages/Colonoscopy"
-import ContactUs from "https://www.medentmobile.com/portal/index.php?practice_id=9GCvbWd2"
 import Directions from "./pages/Directions"
 import ERCP from "./pages/ERCP"
 import Esophagealmanometry from "./pages/Esophagealmanometry"
@@ -41,7 +40,10 @@ function App() {
               <Switch>
               <Route exact path="/" component={Home} />
               <Route exact path="/associates" component={Associates} />
-              <Route exact path="/contactus" component={ContactUs} />
+              <Route path='/contactus' component={() => { 
+                    window.location.href = 'https://www.medentmobile.com/portal/index.php?practice_id=9GCvbWd2'; 
+                    return null;
+                }}/>              
               <Route exact path="/insurance" component={Insurance} />
               <Route exact path="/directions" component={Directions} />
               <Route exact path="/screeningcolonoscopy" component={ScreeningColonoscopy} />
