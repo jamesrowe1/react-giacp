@@ -52,8 +52,10 @@ button {
 
 /* I thought the image should go in HTML as its content, but apparently not true for background images */
 .hero {
-  height: 300px;
+  overflow: auto;
   width: 100%;
+  height: 300px;
+  min-height: 100px;
   margin-bottom: 25px;
   background-image: url("./images/giacp-googlestreetview.JPG");
   background-size: cover;
@@ -154,11 +156,14 @@ footer h2 {
   padding: 20px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   #sidebar {
     display: none
   }
   #mobileInfo {
     display: inline-block;
+  }
+  .hero {
+    height: 100px;
   }
 }
