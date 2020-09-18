@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-class Home extends Component {
+class JCAHO extends Component {
     render() {
       return (
         <>
@@ -11,7 +11,7 @@ class Home extends Component {
         <p align="center">&nbsp;</p>
         <p align="center"><a href="http://www.jointcommission.org/">Link
         to JCAHO website</a></p>
-        <p class="MsoNormal" align="center">The public may contact the Joint
+        <p className="MsoNormal" align="center">The public may contact the Joint
         Commission's Office of Quality Monitoring to report any concerns or register
         complaints about a Joint Commission-accredited health care organization by
         either calling 1/800-994-6610 or by emailing complaint@jointcommission.org.</p>
@@ -21,4 +21,4 @@ class Home extends Component {
     }
   }
    
-  export default Home;
+  export default JCAHO;

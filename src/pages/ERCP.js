@@ -5,7 +5,7 @@ class ERCP extends Component {
       return (
         <>
         <h4>ERCP</h4>
-          <div class="video-container">
+          <div className="video-container">
           <iframe width="853" title="ercp video" height="480" src="https://www.youtube.com/embed/5I504enWYCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
           <p>Endoscopic retrograde

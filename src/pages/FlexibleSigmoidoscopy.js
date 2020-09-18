@@ -6,7 +6,7 @@ class FlexibleSigmoidoscopy extends Component {
         <>
             <h4>Flexible Sigmoidoscopy</h4>
 
-            <div class="video-container">
+            <div className="video-container">
             <iframe width="853" title="flexible sigmoidoscopy video" height="480" src="https://www.youtube.com/embed/VBpj0eUs9JA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <p>Flexible sigmoidoscopy

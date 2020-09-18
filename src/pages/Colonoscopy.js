@@ -4,11 +4,11 @@ class Colonoscopy extends Component {
     render() {
       return (
         <>
-            <h2 class="uppertitle">What is a Colonoscopy?</h2>
-<div class="video-container">
+            <h2 className="uppertitle">What is a Colonoscopy?</h2>
+<div className="video-container">
 <iframe title="colonscopy video" src="https://www.youtube.com/embed/VBraB8Oe9Fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<section class="upperexplanation">
+<section className="upperexplanation">
     <p>
         Colonoscopy (koh-luh-NAH-skuh-pee)
         lets the physician look inside your entire
