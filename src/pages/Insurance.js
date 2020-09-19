@@ -8,7 +8,7 @@ class Insurance extends Component {
 
         <p>&nbsp;</p>
 
-        <h5>Gastroenterology Associates of Central Pennsylvania currently <u>accepts</u>
+        <h5>Gastroenterology Associates of Central Pennsylvania currently <u>accepts</u> 
         the following insurance plans:</h5>
 
         <p>Medicare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

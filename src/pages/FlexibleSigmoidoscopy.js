@@ -56,12 +56,9 @@ class FlexibleSigmoidoscopy extends Component {
 
             <h4>Preparation</h4>
 
-            <p>The colon and rectum must be completely empty for flexible sigmoidoscopy to be thorough
-            and safe, so the physician will probably tell you to drink only clear liquids for 12 to 24
-            hours beforehand. A liquid diet means fat-free bouillon or broth, gelatin, strained fruit
-            juice, water, plain coffee, plain tea, or diet soda. The night before or right before the
-            procedure, you may also be given an enema, which is a liquid solution that washes out the
-            intestines. Your physician may give you other special instructions.</p>
+            <p>Right before the
+            procedure, you will be asked to take an enema, which is a liquid solution that washes out the
+            lower colon and rectum. Your physician may give you other special instructions.</p>
         </>
       );
     }

@@ -21,10 +21,9 @@ class UpperEndoscopy extends Component {
                 </p>
                 <p>
                     For the procedure you will swallow a thin, flexible, lighted tube
-                    called an endoscope (EN-doh-skope). Right before the procedure the
-                    physician will spray your throat with a numbing agent that may
-                    help prevent gagging. You may also receive pain medicine and a
-                    sedative to help you relax during the exam. The endoscope
+                    called an endoscope (EN-doh-skope). You will
+        be given sedation to keep you comfortable
+        and to help you relax during the exam. The endoscope
                     transmits an image of the inside of the esophagus, stomach, and
                     duodenum, so the physician can carefully examine the lining of
                     these organs. The scope also blows air into the stomach; this
@@ -45,8 +44,8 @@ class UpperEndoscopy extends Component {
                     throat after the procedure.
                 </p>
                 <p>
-                    The procedure takes 20 to 30 minutes. Because you will be sedated,
-                    you will need to rest at the endoscopy facility for 1 to 2 hours
+                    The procedure takes 15 to 20 minutes. Because you will be sedated,
+                    you will need to rest at the endoscopy facility for 30 minutes to 1 hour
                     until the medication wears off.
                 </p>
                 <h3>Preparation</h3>

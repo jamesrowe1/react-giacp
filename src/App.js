@@ -28,6 +28,7 @@ import LiverBiopsy from "./pages/LiverBiopsy"
 import ph24hr from "./pages/ph24hr"
 import ScreeningColonoscopy from "./pages/ScreeningColonoscopy"
 import UpperEndoscopy from "./pages/UpperEndoscopy"
+import EndoscopyCenter from "./pages/EndoscopyCenter"
 
 function App() {
   return (
@@ -50,10 +51,11 @@ function App() {
               <Route exact path="/upperendoscopy" component={UpperEndoscopy} />
               <Route exact path="/colonoscopy" component={Colonoscopy} />
               <Route exact path="/flexiblesigmoidoscopy" component={FlexibleSigmoidoscopy} />
-              <Route exact path="/ercp" component={ERCP} />
+              {/* <Route exact path="/ercp" component={ERCP} /> */}
               <Route exact path="/liverbiopsy" component={LiverBiopsy} />
               <Route exact path="/esophagealmanometry" component={Esophagealmanometry} />
               <Route exact path="/ph24hr" component={ph24hr} />
+              <Route exact path="/endoscopycenter" component={EndoscopyCenter} />
               <Route exact path="/jcaho" component={JCAHO} />
               </Switch>
             </Router>

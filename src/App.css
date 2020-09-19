@@ -12,8 +12,8 @@ body {
 
 img {
   float: left;
-  width:  100px;
-  height: 100px;
+  width:  150px;
+  height: 150px;
   object-fit: cover;
   margin: 15px;
 }
@@ -39,7 +39,7 @@ h1 {
 }
 
 h2 {
-  font-size: 4vw
+  font-size: 3.5vw
 }
 
 h4 {
@@ -74,6 +74,9 @@ a {
   color: darkblue
 }
 
+.blueLink {
+  color: darkblue
+}
 .hours {
   margin-bottom: 32px;
   margin-left: 25px;

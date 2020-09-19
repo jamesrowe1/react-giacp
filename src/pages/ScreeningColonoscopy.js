@@ -65,25 +65,13 @@ class ScreeningColonoscopy extends Component {
 
       <h4>Insurance Coverage</h4>
 
-      <p>Although all insurers will cover colonoscopy for an indication
-      (for example, change in bowel habits or abdominal pain), some
-      will not reimburse for colonoscopy for &quot;average risk&quot;
-      screening purposes (when the patient has no symptoms or one of
-      the high-risk conditions noted above). Although the medical
-      literature clearly supports the benefit of average risk screening
-      colonoscopy, some insurers have been slow to recognize that
-      benefit and will not cover that procedure. <u>In those
-      situations, the patient is responsible for the costs of the
-      screening colonoscopy</u>; for many, this may be significant
-      factor in the decision whether to proceed with this beneficial
-      procedure. There has been legislation pending in the
-      Pennsylvania Legislature to require all insurers doing business
+      <p>
+      Pennsylvania legislation requires all insurers doing business
       in the Commonwealth of Pennsylvania to provide coverage for
-      screening colonoscopy; this legislation has not yet passed,
-      however.</p>
+      screening colonoscopy.</p>
 
-      <p>Strangely enough, some insurers do cover screening colonoscopy at 100
-      percent, but diagnostic colonoscopy at a lesser percent (typically 80 to 100
+      <p>Insurers do cover screening colonoscopy at 100
+      percent, but diagnostic colonoscopy may be covered at a lesser percent (typically 80 to 100
       percent, depending upon the individual plan).&nbsp; Our office will do its best
       to help you remain informed about your own insurance plan.</p>
 

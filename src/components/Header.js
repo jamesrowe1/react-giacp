@@ -25,18 +25,18 @@ class Header extends React.Component {
     <DropdownButton as={ButtonGroup} id="dropdown-basic-button" variant="danger" title="Navigation">
         <Dropdown.Item href="/">Home</Dropdown.Item>
         <Dropdown.Item href="/associates">Associates</Dropdown.Item>
-        <Dropdown.Item href="/contactus">Contact Us</Dropdown.Item>
+        <Dropdown.Item href="/contactus">Patient Portal</Dropdown.Item>
         <Dropdown.Item href="/insurance">Insurance</Dropdown.Item>
         <Dropdown.Item href="/directions">Directions</Dropdown.Item>
         <Dropdown.Item href="/screeningcolonoscopy">Screening Colonoscopy</Dropdown.Item>
-        <Dropdown.Item href="/jcaho">Accredidation</Dropdown.Item>
+        <Dropdown.Item href="/endoscopycenter">Endoscopy Center</Dropdown.Item>
     </DropdownButton>
     <DropdownButton as={ButtonGroup} id="dropdown-basic-button" variant="danger" title="Procedures">
         <Dropdown.Item href="/screeningcolonoscopy">Screening Colonoscopy</Dropdown.Item>
         <Dropdown.Item href="/upperendoscopy">Upper Endoscopy</Dropdown.Item>
         <Dropdown.Item href="/colonoscopy">Colonoscopy</Dropdown.Item>
         <Dropdown.Item href="/flexiblesigmoidoscopy">Flexible Sigmoidoscopy</Dropdown.Item>
-        <Dropdown.Item href="/ercp">ERCP <p>(Endoscopic Retrograde Cholangio Pancreaticogram)</p></Dropdown.Item>
+        {/* <Dropdown.Item href="/ercp">ERCP <p>(Endoscopic Retrograde Cholangio Pancreaticogram)</p></Dropdown.Item> */}
         <Dropdown.Item href="/liverbiopsy">Liver Biopsy</Dropdown.Item>
         <Dropdown.Item href="/esophagealmanometry">Esophageal Manometry</Dropdown.Item>
         <Dropdown.Item href="/ph24hr">24 Hour pH Probe</Dropdown.Item>

@@ -26,8 +26,7 @@ class Colonoscopy extends Component {
     <p>
         For the procedure, you will lie on your
         left side on the examining table. You will
-        probably be given pain medication and a
-        mild sedative to keep you comfortable
+        be given sedation to keep you comfortable
         and to help you relax during the exam.
         The physician will insert a long, flexible,
         lighted tube into your rectum and slowly
@@ -58,9 +57,9 @@ class Colonoscopy extends Component {
         such complications are uncommon.
     </p>
     <p>
-        Colonoscopy takes 30 to 60 minutes. The sedative and pain medicine should keep you
-        from feeling much discomfort during the exam. You will need to remain at the endoscopy
-        facility for 1 to 2 hours until the sedative wears off.
+        Colonoscopy takes 30 to 60 minutes. The sedative should keep you
+        from feeling discomfort during the exam. You will need to remain at the endoscopy
+        facility for 30 minutes to 1 hour until the sedative wears off.
     </p>
     <h3>Preparation</h3>
     <p>

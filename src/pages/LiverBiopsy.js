@@ -70,7 +70,7 @@ class LiverBiopsy extends Component {
             of the liver. Physicians use this type of biopsy when they need tissue samples from
             specific parts of the liver.</p>
 
-            <p>ransvenous biopsy involves inserting a tube called a catheter into a vein in the neck and
+            <p>Transvenous biopsy involves inserting a tube called a catheter into a vein in the neck and
             guiding it to the liver. The physician puts a biopsy needle into the catheter and then into the
             liver. Physicians use this procedure when patients have blood-clotting problems or fluid in
             the abdomen.</p>
