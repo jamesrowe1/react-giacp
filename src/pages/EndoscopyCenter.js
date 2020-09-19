@@ -10,7 +10,7 @@ class EndoscopyCenter extends Component {
             <p align="center"><font size="5">1421 Fishburn Road</font></p>
             <p align="center"><font size="5">Hershey, PA&nbsp;&nbsp; 17033</font></p>
             <p align="center">&nbsp;</p>
-            <p align="center"><font size="5">717-835-2727&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <p align="center"><font size="5"><a href="tel:7178352727" className="blueLink">717-835-2727</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             Fax 717-533-2164</font></p>
 
             <p align="center"><a className="blueLink" href="/jcaho">JCAHO Accreditation Notice</a></p>

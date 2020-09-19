@@ -7,7 +7,7 @@ class Associates extends Component {
       return (
         <>
             <section className="william-rowe">
-                <img src={wrowe} className="float-left" alt="william-rowe" />
+                <img src={wrowe} className="float-left associate" alt="william-rowe" />
                 <h2>William A. Rowe, M.D.</h2>
                 <p>
                     Dr. Rowe received a Bachelor of Arts from Cornell University and a
@@ -36,12 +36,12 @@ class Associates extends Component {
                 </p>
                 <p>
                     National Library of Medicine Medline search for publications by
-                    <strong><a className="linkOnPage" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=PubMed&term=rowe+wa[au]">Dr.
+                    <strong><a className="linkOnPage" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=PubMed&term=rowe+wa[au]"> Dr.
                             Rowe</a></strong>
                 </p>
             </section>
             <section className="robert-werkman">
-                <img src={rfwerkman2} className="float-right" alt="robert-werkman" />
+                <img src={rfwerkman2} className="float-right associate" alt="robert-werkman" />
                 <h2>Robert F. Werkman, M.D.</h2>
                 <p>
                     Dr. Werkman received a Bachelor of Arts from Lehigh University and
@@ -66,13 +66,13 @@ class Associates extends Component {
                 <br />
                 <p>
                     National Library of Medicine Medline search for publications by
-                    <strong><a className="linkOnPage" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=PubMed&term=werkman+rf[au]">Dr.
+                    <strong><a className="linkOnPage" href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Search&db=PubMed&term=werkman+rf[au]"> Dr.
                             Werkman</a></strong>
                 </p>
             </section>
 
-            <section className="carrie-leese">
-                <img src={carrie2} alt="carrie-leese" />
+            <section className="carrie-leese ">
+                <img src={carrie2} alt="carrie-leese" className="associate" />
                 <h2>Carrie Leese, M.M.S., PA-C</h2>
                 <p>
                     Ms. Leese received her Bachelor of Science degree at the

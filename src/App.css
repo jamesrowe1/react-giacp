@@ -10,12 +10,24 @@ body {
   background-color: #d9dcd6;
 }
 
-img {
+.associate {
   float: left;
   width:  150px;
   height: 150px;
-  object-fit: cover;
+  /* object-fit: cover; */
   margin: 15px;
+}
+
+/* .associateHome {
+  width:  150px;
+  height: 150px;
+  text-align: center;
+  margin: 5px auto
+} */
+.center {
+  float: none;
+  margin: 5px auto;
+  text-align: center;
 }
 
 /* removed . as this is now a semantic tag in index */

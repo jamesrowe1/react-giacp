@@ -1,8 +1,12 @@
 import React, { Component } from "react";
+import JCAHOseal from "../images/JCAHOgold-seal.jpg"
 class JCAHO extends Component {
     render() {
       return (
         <>
+        <div class="center">
+        <img src={JCAHOseal} alt="jcahoseal" class="center"/>
+        </div>
         <p align="center">The Endoscopy Center of Central Pennsylvania, L.L.C.</p>
         <p align="center">is proudly</p>
         <p align="center"><b><font size="6">Accredited</font></b></p>

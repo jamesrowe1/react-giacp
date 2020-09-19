@@ -8,8 +8,7 @@ class Insurance extends Component {
 
         <p>&nbsp;</p>
 
-        <h5>Gastroenterology Associates of Central Pennsylvania currently <u>accepts</u> 
-        the following insurance plans:</h5>
+        <h5>Gastroenterology Associates of Central Pennsylvania currently <u>accepts</u> the following insurance plans:</h5>
 
         <p>Medicare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         UPMC</p>
@@ -41,7 +40,7 @@ class Insurance extends Component {
         your primary care physician.</p>
 
         <p>For other insurers
-        please call our office at 717-533-2224 to check on availability:</p>
+        please call our office at <a href="tel:7175332224" className="blueLink">717-533-2224</a> to check on availability:</p>
 
         <p>We do not accept Gateway, Three Rivers, or Mercy health plans.&nbsp; Because
         they do not apply to a gastroenterology practice, we do not accept auto
@@ -49,8 +48,7 @@ class Insurance extends Component {
 
         <p>&nbsp;</p>
 
-        <p>See our page on <a href="/screeningcolonoscopy">Screening Colonoscopy</a>
-        for specific insurance information regarding that procedure</p>
+        <p>See our page on <a href="/screeningcolonoscopy" className="blueLink">Screening Colonoscopy</a> for specific insurance information regarding that procedure</p>
 
         <p>&nbsp;</p>
         </>
