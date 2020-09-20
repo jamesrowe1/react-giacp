@@ -48,9 +48,9 @@ class Sidebar extends React.Component {
                     <li>
                         <a href="/flexiblesigmoidoscopy">Flexible Sigmoidoscopy</a>
                     </li>
-                    <li>
+                    {/* <li>
                         <a href="/ercp">ERCP (Endoscopic Retrograde Cholangio Pancreaticogram)</a>
-                    </li>
+                    </li> */}
                     <li>
                         <a href="/liverbiopsy">Liver Biopsy</a>
                     </li>
