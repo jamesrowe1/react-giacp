@@ -7,7 +7,7 @@ class UpperEndoscopy extends Component {
             <h2 class="uppertitle">What is an Upper Endoscopy?</h2>
 
             <div class="video-container">
-            <iframe title="upperendoscopy youtube video" width="853" height="480" src="https://www.youtube.com/embed/gpxR1ji4fkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe title="upperendoscopy youtube video" width="853" height="480" src="https://www.youtube.com/embed/155iCmTs31A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <section class="upperexplanation">
                 <p>
