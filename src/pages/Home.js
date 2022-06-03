@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import wrowe from "../images/wrowe2.jpg"
 import rfwerkman2 from "../images/rfwerkman2.jpg"
 import carrie2 from "../images/Carrie2.jpg"
+import haley_kershner from "../images/haley_kershner2.jpg"
 class Home extends Component {
     render() {
       return (
@@ -30,7 +31,7 @@ class Home extends Component {
             </section>
 
             <section className="haley-kershner card card-bio center">
-                <img src={haley_kershner.jpg} alt="haley-kershner" className="center associate" />
+                <img src={haley_kershner} alt="haley-kershner" className="center associate" />
                 <h2>Haley Kershner, M.S., PA-C</h2>
             </section>
         {/* <div className="card-bio">
