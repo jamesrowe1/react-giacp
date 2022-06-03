@@ -8,7 +8,7 @@ class ScreeningColonoscopy extends Component {
 
       <h4>Who:</h4>
 
-      <p>Anyone over the age of 50 - you are considered at average risk
+      <p>Anyone over the age of 45 - you are considered at average risk
       for developing colon cancer</p>
           <ul>
               <li>Anyone with one of the following conditions - you are
