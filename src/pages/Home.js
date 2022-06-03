@@ -19,14 +19,19 @@ class Home extends Component {
                 <img src={wrowe} className="center associate" alt="william-rowe" />
                 <h2 className="float-right">William A. Rowe, M.D.</h2>
             </section>
-            <section className="robert-werkman card card-bio center">
+            {/* <section className="robert-werkman card card-bio center">
                 <img src={rfwerkman2} className="center associate" alt="robert-werkman" />
                 <h2>Robert F. Werkman, M.D.</h2>
-            </section>
+            </section> */}
 
             <section className="carrie-leese card card-bio center">
                 <img src={carrie2} alt="carrie-leese" className="center associate" />
                 <h2>Carrie Leese, M.M.S., PA-C</h2>
+            </section>
+
+            <section className="haley-kershner card card-bio center">
+                <img src={haley_kershner.jpg} alt="haley-kershner" className="center associate" />
+                <h2>Haley Kershner, M.S., PA-C</h2>
             </section>
         {/* <div className="card-bio">
             "My Urologist referred me to Dr R for difficulties that have gotten worse following multiple pelvic surgeries. His office had me mail Medical Records in advance, which he had reviewed before we met. His questions were direct, on point, & his recommendations helpful. He answered my questions, making sure I understood the changes I am supposed to make."
