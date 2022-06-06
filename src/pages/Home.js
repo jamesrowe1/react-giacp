@@ -18,7 +18,7 @@ class Home extends Component {
         </h3>
         <section className="william-rowe card card-bio center">
                 <img src={wrowe} className="center associate" alt="william-rowe" />
-                <h2 className="float-right">William A. Rowe, M.D.</h2>
+                <h2 className="float-right" href="#william-rowe">William A. Rowe, M.D.</h2>
             </section>
             {/* <section className="robert-werkman card card-bio center">
                 <img src={rfwerkman2} className="center associate" alt="robert-werkman" />

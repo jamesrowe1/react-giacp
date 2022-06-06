@@ -7,7 +7,7 @@ class Associates extends Component {
     render() {
       return (
         <>
-            <section className="william-rowe">
+            <section className="william-rowe" id="william-rowe">
                 <img src={wrowe} className="float-left associate" alt="william-rowe" />
                 <h2>William A. Rowe, M.D.</h2>
                 <p>
@@ -43,7 +43,7 @@ class Associates extends Component {
             </section>
             
 
-            <section className="carrie-leese ">
+            <section className="carrie-leese" id="carrie-leese">
                 <img src={carrie2} alt="carrie-leese" className="associate" />
                 <h2>Carrie Leese, M.M.S., PA-C</h2>
                 <p>
@@ -62,7 +62,7 @@ class Associates extends Component {
                 </p>
             </section>
 
-            <section className="haley-kershner ">
+            <section className="haley-kershner" id="haley-kershner">
                 <img src={kershner} alt="haley-kershner" className="associate" />
                 <h2>Haley Kershner, M.M.S., PA-C</h2>
                 <p>
@@ -75,7 +75,7 @@ class Associates extends Component {
                 </p>
             </section>
 
-            <section className="robert-werkman">
+            <section className="robert-werkman" id="robert-werkman">
                 {/* <img src={rfwerkman2} className="float-right associate" alt="robert-werkman" /> */}
                 <h5>Robert F. Werkman, M.D. (retired)</h5>
                 <p>
