@@ -77,7 +77,7 @@ class Associates extends Component {
 
             <section className="robert-werkman">
                 {/* <img src={rfwerkman2} className="float-right associate" alt="robert-werkman" /> */}
-                <h6>Robert F. Werkman, M.D. (retired)</h6>
+                <h5>Robert F. Werkman, M.D. (retired)</h5>
                 <p>
                     Dr. Werkman received a Bachelor of Arts from Lehigh University and
                     a Doctor of Medicine from Jefferson Medical College of Thomas
