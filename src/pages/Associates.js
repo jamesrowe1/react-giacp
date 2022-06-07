@@ -94,10 +94,6 @@ class Associates extends Component {
                     January 2003 to start a gastroenterology practice with Dr. Rowe.
                 </p>
                 <br />
-                <p>
-                    Dr. Werkman is a licensed Medical Physician and Surgeon in the
-                    Commonwealth of Pennsylvania.
-                </p>
                 <br />
                 <p>
                     National Library of Medicine Medline search for publications by
