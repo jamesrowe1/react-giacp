@@ -11,7 +11,7 @@ class Home extends Component {
             Our Story
         </h3>
         <div className="card-bio">
-            Gastroentorology Associates of Central Pennsylvania was founded in 2003 by <a href="/Associates#william-rowe">Dr. William Rowe</a> and <a href="/Associates#robert-werkman">Dr. Robert Werkman</a>. They have now expanded to include PA Carrie Leese, and are looking forward to providing whatever Gastroentorological services you require.
+            Gastroentorology Associates of Central Pennsylvania was founded in 2003 by <a href="/Associates#william-rowe">Dr. William Rowe</a> and <a href="/Associates#robert-werkman">Dr. Robert Werkman</a>. They have now expanded to include PAs Carrie Leese and Haley Kershner, and are looking forward to providing whatever Gastroentorological services you require.
         </div>
         <h3>
             Our Providers
