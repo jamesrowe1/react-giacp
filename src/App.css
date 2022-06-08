@@ -79,7 +79,7 @@ button {
 
 #sidebar {
   background-color: #0072bb;
-  padding: 1px;
+  padding-top: -1px;
 }
 
 a {
