@@ -58,6 +58,7 @@ function App() {
               <Route exact path="/ph24hr" component={ph24hr} />
               <Route exact path="/endoscopycenter" component={EndoscopyCenter} />
               <Route exact path="/jcaho" component={JCAHO} />
+              <Route path="/" component={Home} />
               </Switch>
             </Router>
           </Col>
