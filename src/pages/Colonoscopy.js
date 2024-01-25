@@ -6,8 +6,7 @@ class Colonoscopy extends Component {
         <>
             <h2 className="uppertitle">What is a Colonoscopy?</h2>
 <div className="video-container">
-<iframe title="colonscopy video" src="https://www.youtube.com/embed/VBraB8Oe9Fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe title="colonoscopy video" width="560" height="315" src="https://www.youtube.com/embed/uCpj_Taw8i4?si=T1RiVyUbxfLxv4S5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 <section className="upperexplanation">
     <p>
         Colonoscopy (koh-luh-NAH-skuh-pee)

@@ -7,8 +7,7 @@ class FlexibleSigmoidoscopy extends Component {
             <h4>Flexible Sigmoidoscopy</h4>
 
             <div className="video-container">
-            <iframe width="853" title="flexible sigmoidoscopy video" height="480" src="https://www.youtube.com/embed/VBpj0eUs9JA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/d-vGeNDlhA0?si=NsAmGWlhJPNxXuga" title="flexible sigmoidography video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>            </div>
             <p>Flexible sigmoidoscopy
             (SIG-moy-DAH-skuh-pee) enables the
             physician to look at the inside of the large

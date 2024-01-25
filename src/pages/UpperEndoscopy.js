@@ -7,8 +7,7 @@ class UpperEndoscopy extends Component {
             <h2 class="uppertitle">What is an Upper Endoscopy?</h2>
 
             <div class="video-container">
-            <iframe title="upperendoscopy youtube video" width="853" height="480" src="https://www.youtube.com/embed/gpxR1ji4fkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
+            <iframe title="upper endoscopy video" width="560" height="315" src="https://www.youtube.com/embed/UODNK2DfwfY?si=mkeeZwzqGch7RJs4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>            </div>
             <section class="upperexplanation">
                 <p>
                     Upper endoscopy enables the physician to look inside the
