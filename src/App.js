@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Header from "./components/Header"
 import Sidebar from "./components/Sidebar"
+import Footer from "./components/Footer"
 import {
   BrowserRouter as Router,
   Switch,
@@ -57,6 +58,7 @@ function App() {
               <Route exact path="/ph24hr" component={ph24hr} />
               <Route exact path="/endoscopycenter" component={EndoscopyCenter} />
               <Route exact path="/jcaho" component={JCAHO} />
+              <Route path="/" component={Home} />
               </Switch>
             </Router>
           </Col>
@@ -65,6 +67,7 @@ function App() {
           </Col>
         </Row>
       </Container>
+      <Footer />
     </>
   );
 }

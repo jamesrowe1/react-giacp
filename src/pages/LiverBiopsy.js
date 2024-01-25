@@ -7,7 +7,7 @@ class LiverBiopsy extends Component {
             <h4>Liver Biopsy</h4>
 
             <div className="video-container">
-            <iframe width="853" title="liver biopsy video" height="480" src="https://www.youtube.com/embed/mnHPx5XEvfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="853" title="liver biopsy video" height="480" src="https://www.youtube.com/embed/uMfwNL0Kfmw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <p>
             With a liver biopsy (BYE-op-see), the

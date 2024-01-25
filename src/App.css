@@ -12,8 +12,11 @@ body {
 
 .associate {
   float: left;
-  width:  150px;
-  height: 150px;
+  width: 20%;
+  height: auto;
+  min-width: 150px;
+  /* width:  150px;
+  height: 150px; */
   /* object-fit: cover; */
   margin: 15px;
 }
@@ -76,6 +79,7 @@ button {
 
 #sidebar {
   background-color: #0072bb;
+  padding-top: -1px;
 }
 
 a {

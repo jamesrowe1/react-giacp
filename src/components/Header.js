@@ -37,7 +37,7 @@ class Header extends React.Component {
         <Dropdown.Item href="/colonoscopy">Colonoscopy</Dropdown.Item>
         <Dropdown.Item href="/flexiblesigmoidoscopy">Flexible Sigmoidoscopy</Dropdown.Item>
         {/* <Dropdown.Item href="/ercp">ERCP <p>(Endoscopic Retrograde Cholangio Pancreaticogram)</p></Dropdown.Item> */}
-        <Dropdown.Item href="/liverbiopsy">Liver Biopsy</Dropdown.Item>
+        {/* <Dropdown.Item href="/liverbiopsy">Liver Biopsy</Dropdown.Item> */}
         <Dropdown.Item href="/esophagealmanometry">Esophageal Manometry</Dropdown.Item>
         <Dropdown.Item href="/ph24hr">24 Hour pH Probe</Dropdown.Item>
     </DropdownButton>
